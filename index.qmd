@@ -1,0 +1,18 @@
+---
+title: "joss dot cat"
+format: html
+toc: true
+---
+
+![](cat_irasutoya.png)
+
+## Why?
+
+Cats are the best and coolest animals currently alive today.^["Cat" refers to any animal in the Felidae family.] I like thinking about them and looking at them. This website makes me happy and hopefully makes you, internet stranger, happy too.
+
+Do you have a cat fact to share (and a source to verify that fact)? Do you just wanna send me pics of your cat? A pic of a cat on the street? Did you have a dream about being eaten by a lion and want someone to know? Literally anything about any animal in the Felidae family? Please email me at `czdzw3c6@duck.com`.
+
+
+## What?
+
+This website contains cat facts that I enjoy thinking about. It also refers you to other cat-related websites and books and the like.
