@@ -2,17 +2,55 @@
 title: "joss dot cat"
 format: html
 toc: true
+toc-location: left
+toc-title: "Contents:"
+linkcolor: "#885e22"
+mainfont: FiraGo
+monofont: Fira Code
+reference-location: margin
+cap-location: margin
 ---
 
-![](cat_irasutoya.png)
-
-## Why?
-
-Cats are the best and coolest animals currently alive today.^["Cat" refers to any animal in the Felidae family.] I like thinking about them and looking at them. This website makes me happy and hopefully makes you, internet stranger, happy too.
-
-Do you have a cat fact to share (and a source to verify that fact)? Do you just wanna send me pics of your cat? A pic of a cat on the street? Did you have a dream about being eaten by a lion and want someone to know? Literally anything about any animal in the Felidae family? Please email me at `czdzw3c6@duck.com`.
+![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png)
 
 
 ## What?
 
-This website contains cat facts that I enjoy thinking about. It also refers you to other cat-related websites and books and the like.
+Hello! Welcome to joss dot cat, a small website focused on cat facts that I enjoy thinking about. I also have links and references to other places to learn about cats. I'm still learning and there's a lot I don't know. I welcome comments and criticism.
+
+
+## Why?
+
+Cats are the best and coolest animals currently alive today.^["Cat" refers to any animal in the Felidae family.] I like thinking about them and looking at them. This website makes me happy and hopefully makes you happy, too.
+
+
+## Cat Facts
+
+### Housecat Facts
+
+Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
+
+### Amur Tiger Facts
+
+Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are highly endangered.
+
+
+## Cat Resources
+
+### Art
+
+- [catcrumb](https://catcrumb.tumblr.com/) is an archive of cats drawn daily. Most of the drawings were done in MS Paint. I like them.
+
+
+## Contact
+
+Feel free to email me at `czdzw3c6@duck.com` if:
+
+- You spotted an error on this website.
+- You have a cat fact to share and a source to verify that fact.
+- You are a cat researcher and wanna share preprints or data.
+- You took a pic of a cat and want me to see.
+- You had a dream about being eaten by a lion and need to let someone know.
+- Literally anything about any member of the Felidae family.
+
+Thanks for visiting! Have a great day! :D
