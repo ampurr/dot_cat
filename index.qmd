@@ -37,6 +37,10 @@ Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are
 
 ## Cat Resources
 
+### Science
+
+- The [Cat Specialist Group](http://www.catsg.org/) is a collective of cat specialists who work with endangered cats.
+
 ### Art
 
 - [catcrumb](https://catcrumb.tumblr.com/) is an archive of cats drawn daily. Most of the drawings were done in MS Paint. I like them.
