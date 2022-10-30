@@ -1,15 +1,17 @@
-#,Name,Category,Evolutionary Line or Kind,Catness
-052,Meowth,Scratch Cat Pokémon,Meowth Line,lucky cat
-053,Persian,Classy Cat Pokémon,Meowth Line,Persian housecat--large cat mix
-196,Espeon,Sun Pokémon,Eevee Line,housecat
-197,Umbreon,Moonlight Pokémon,Eevee Line,housecat
-243,Raikou,Thunder Pokémon,Legendary Beast,saber-toothed cat
-245,Suicune,Aurora Pokémon,Legendary Beast,leopard
-300,Skitty,Kitten Pokémon,Skitty Line,housecat
-301,Delcatty,Prim Pokémon,Skitty Line,housecat--lynx mix
-335,Zangoose,Cat Ferret Pokémon,Zangoose/Seviper Pair,housecat--mongoose mix
-403,Shinx,Flash Pokémon,Shinx Line,lion cub
-404,Luxio,Spark Pokémon,Shinx Line,lion
-405,Luxray,Gleam Eyes Pokémon,Shinx Line,lion--lynx mix
-431,Glameow,Catty Pokémon,Glameow Line,housecat
-432,Purugly,Tiger Cat Pokémon,Glameow Line,housecat--oncilla mix
+#,Name,Category,Evolutionary Line or Kind,Debut,Catness
+052,Meowth,Scratch Cat Pokémon,Meowth Line,Gen I,lucky cat
+053,Persian,Classy Cat Pokémon,Meowth Line,Gen I,Persian housecat--large cat mix
+196,Espeon,Sun Pokémon,Eevee Line,Gen II,housecat
+197,Umbreon,Moonlight Pokémon,Eevee Line,Gen II,housecat
+243,Raikou,Thunder Pokémon,Legendary Beast,Gen II,saber-toothed cat
+245,Suicune,Aurora Pokémon,Legendary Beast,Gen II,leopard
+300,Skitty,Kitten Pokémon,Skitty Line,Gen III,housecat
+301,Delcatty,Prim Pokémon,Skitty Line,Gen III,housecat--lynx mix
+335,Zangoose,Cat Ferret Pokémon,Zangoose/Seviper Pair,Gen III,housecat--mongoose mix
+403,Shinx,Flash Pokémon,Shinx Line,Gen IV,lion cub
+404,Luxio,Spark Pokémon,Shinx Line,Gen IV,lion
+405,Luxray,Gleam Eyes Pokémon,Shinx Line,Gen IV,lion--lynx mix
+431,Glameow,Catty Pokémon,Glameow Line,Gen IV,housecat
+432,Purugly,Tiger Cat Pokémon,Glameow Line,Gen IV,housecat--oncilla mix
+509,Purrloin,Devious Pokémon,Purrloin Line,Gen V,housecat
+510,Liepard,Cruel Pokémon,Purrloin Line,Gen V,housecat--leopard mix
