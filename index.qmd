@@ -11,6 +11,15 @@ reference-location: margin
 cap-location: margin
 ---
 
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      cache = FALSE,
+                      autodep = TRUE)
+library(knitr)        # file conversion
+library(tidyverse)    # data manipulation
+library(kableExtra)   # make tables
+```
+
 ![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png)
 
 
@@ -31,6 +40,10 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 Here are all the Pokémon described as cats or sufficiently cat-like in the Pokémon video game series.
 
 ```{r}
+# read the csv file + then display it
+pkmn_list <- read.csv("pokemon_list.csv") |>
+  kbl() |>
+  kable_styling()
 
 ```
 
