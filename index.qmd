@@ -21,10 +21,14 @@ Hello! Welcome to joss dot cat, a small website focused on cat facts that I enjo
 
 ## Why?
 
-Cats are the best and coolest animals currently alive today.^["Cat" refers to any animal in the Felidae family.] I like thinking about them and looking at them. This website makes me happy and hopefully makes you happy, too.
+Cats are the best and coolest animals currently alive today.^["Cat" refers to any animal in the Felidae family.] I like thinking about them and looking at them and maybe you do, too.
 
 
 ## Cat Facts
+
+### Cat Pokémon
+
+Here are all the Pokémon described as cats or sufficiently cat-like in the Pokémon video game series. An example of Pokémon being insufficiently cat are Eevee and its evolutions. While they were [designed to have cat characteristics](https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)#Origin), those characteristics are blended with those of other animals.
 
 ### Housecat Facts
 
@@ -44,6 +48,7 @@ Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are
 ### Art
 
 - [catcrumb](https://catcrumb.tumblr.com/) is an archive of cats drawn daily. Most of the drawings were done in MS Paint. I like them.
+- add the tiger a day blog :>
 
 
 ## Contact
