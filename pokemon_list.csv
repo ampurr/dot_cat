@@ -1,5 +1,15 @@
-#,Name,Category,Line
-052,Meowth,Scratch Cat Pokémon,Meowth Line
-053,Persian,Classy Cat Pokémon,Meowth Line
-196,Espeon,Sun Pokémon,Eevee Line
-197,Umbreon,Moonlight Pokémon,Eevee Line
+#,Name,Category,Evolutionary Line or Kind,Catness
+052,Meowth,Scratch Cat Pokémon,Meowth Line,lucky cat
+053,Persian,Classy Cat Pokémon,Meowth Line,Persian housecat--large cat mix
+196,Espeon,Sun Pokémon,Eevee Line,housecat
+197,Umbreon,Moonlight Pokémon,Eevee Line,housecat
+243,Raikou,Thunder Pokémon,Legendary Beast,saber-toothed cat
+245,Suicune,Aurora Pokémon,Legendary Beast,leopard
+300,Skitty,Kitten Pokémon,Skitty Line,housecat
+301,Delcatty,Prim Pokémon,Skitty Line,housecat--lynx mix
+335,Zangoose,Cat Ferret Pokémon,Zangoose/Seviper Pair,housecat--mongoose mix
+403,Shinx,Flash Pokémon,Shinx Line,lion cub
+404,Luxio,Spark Pokémon,Shinx Line,lion
+405,Luxray,Gleam Eyes Pokémon,Shinx Line,lion--lynx mix
+431,Glameow,Catty Pokémon,Glameow Line,housecat
+432,Purugly,Tiger Cat Pokémon,Glameow Line,housecat--oncilla mix
