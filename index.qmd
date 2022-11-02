@@ -41,9 +41,12 @@ Here are all the Pokémon described as cats or sufficiently cat-like in the Pok�
 
 ```{r}
 # read the csv file + then display it
+#| column: page
+
 pkmn_list <- read.csv("pokemon_list.csv") |>
   kbl() |>
   kable_styling()
+pkmn_list
 ```
 
 Since Pokémon are usually not direct translations of real-life animals, I had to make judgement calls.
