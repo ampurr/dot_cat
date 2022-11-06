@@ -1,0 +1,6 @@
+/* css file for the cat website */
+/* most of the css is rendered by pandoc and quarto, so it's not here */
+
+table {
+    font-variant-numeric: tabular-nums;
+}

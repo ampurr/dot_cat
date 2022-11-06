@@ -1,27 +1,27 @@
-Num,Name,Category,Evolutionary Line or Kind,Debut,Catness
+Num,Name,Category,Kind,Debut,Catness
 052,Meowth,Scratch Cat Pokémon,Meowth Line,Gen I,lucky cat
-053,Persian,Classy Cat Pokémon,Meowth Line,Gen I,Persian housecat--large cat mix
+053,Persian,Classy Cat Pokémon,Meowth Line,Gen I,Persian housecat–large cat mix
 196,Espeon,Sun Pokémon,Eevee Line,Gen II,housecat
 197,Umbreon,Moonlight Pokémon,Eevee Line,Gen II,housecat
 243,Raikou,Thunder Pokémon,Legendary Beast,Gen II,saber-toothed cat
 245,Suicune,Aurora Pokémon,Legendary Beast,Gen II,leopard
 300,Skitty,Kitten Pokémon,Skitty Line,Gen III,housecat
-301,Delcatty,Prim Pokémon,Skitty Line,Gen III,housecat--lynx mix
-335,Zangoose,Cat Ferret Pokémon,Zangoose/Seviper Pair,Gen III,housecat--mongoose mix
+301,Delcatty,Prim Pokémon,Skitty Line,Gen III,housecat-lynx mix
+335,Zangoose,Cat Ferret Pokémon,Zangoose/Seviper Pair,Gen III,housecat–mongoose mix
 403,Shinx,Flash Pokémon,Shinx Line,Gen IV,lion cub
 404,Luxio,Spark Pokémon,Shinx Line,Gen IV,lion
-405,Luxray,Gleam Eyes Pokémon,Shinx Line,Gen IV,lion--lynx mix
+405,Luxray,Gleam Eyes Pokémon,Shinx Line,Gen IV,lion-lynx mix
 431,Glameow,Catty Pokémon,Glameow Line,Gen IV,housecat
-432,Purugly,Tiger Cat Pokémon,Glameow Line,Gen IV,housecat--oncilla mix
+432,Purugly,Tiger Cat Pokémon,Glameow Line,Gen IV,housecat-oncilla mix
 509,Purrloin,Devious Pokémon,Purrloin Line,Gen V,housecat
-510,Liepard,Cruel Pokémon,Purrloin Line,Gen V,housecat--leopard mix
+510,Liepard,Cruel Pokémon,Purrloin Line,Gen V,housecat-leopard mix
 667,Litleo,Lion Cub Pokémon,Litleo Line,Gen VI,lion cub
 668,Pyroar,Royal Pokémon,Litleo Line,Gen VI,lion
-677,Espurr,Restraint Pokémon,Espurr Line,Gen VI,housecat--nekomata mix
-678,Meowstic,Constraint Pokémon,Espurr Line, Gen VI,housecat--nekomata mix
+677,Espurr,Restraint Pokémon,Espurr Line,Gen VI,housecat-nekomata mix
+678,Meowstic,Constraint Pokémon,Espurr Line, Gen VI,housecat-nekomata mix
 725,Litten,Fire Cat Pokémon,Litten Line, Gen VII,housecat
-726,Torracat,Fire Cat Pokémon,Litten Line, Gen VII,housecat--tiger mix
+726,Torracat,Fire Cat Pokémon,Litten Line, Gen VII,housecat-tiger mix
 727,Incineroar,Heel Pokémon,Litten Line, Gen VII,tiger mix
-791,Solgaleo,Sunne Pokémon,Cosmog Line & Light Trio,Gen VII,lion
-807,Zeraora,Thunderclap Pokémon,Mystical Pokémon, Gen VII,housecat--tiger mix
+791,Solgaleo,Sunne Pokémon,Cosmog Line,Gen VII,lion
+807,Zeraora,Thunderclap Pokémon,Mystical Pokémon, Gen VII,housecats-tiger mix
 863,Perrserker,Viking Pokémon,Meowth Line,Gen VIII,housecat

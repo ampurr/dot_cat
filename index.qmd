@@ -1,6 +1,7 @@
 ---
 title: "joss dot cat"
 format: html
+css: style_changes.css
 toc: true
 toc-location: left
 toc-title: "Contents:"
@@ -39,15 +40,16 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 
 Here are all the Pokémon described as cats or sufficiently cat-like in the Pokémon video game series.
 
+:::{.column-page-inset-right}
 ```{r}
 # read the csv file + then display it
-#| column: page
 
 pkmn_list <- read.csv("pokemon_list.csv") |>
   kbl() |>
   kable_styling()
 pkmn_list
 ```
+:::
 
 Since Pokémon are usually not direct translations of real-life animals, I had to make judgement calls.
 
