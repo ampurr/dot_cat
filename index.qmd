@@ -21,7 +21,7 @@ library(tidyverse)    # data manipulation
 library(kableExtra)   # make tables
 ```
 
-![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png)
+![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png){fig-alt = "A tabby housecat licking itself."}
 
 
 ## What?
