@@ -38,9 +38,10 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 
 ### Housecat Facts
 
-Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
+Facts about _Felis catus_, the common housecat and the animal that most people think of when they see the word "cat".
 
-- Housecats have super efficient kidneys, partly because they evolved from _Felis silvestris lybica_ [@Bradshaw_2013, Chapter 3].^["First, their kidneys are very efficient, as expected for an animal whose ancestors lived on the edge of deserts, and many cats drink little water, getting all the moisture they need from the meat they eat. Second, cats do not require vitamin C."]
+- Housecats evolved from _Felis silvestris lybica_, a kind of desert wildcat, and therefore have super efficient kidneys [@Bradshaw_2013, Chapter 3].^["First, their kidneys are very efficient, as expected for an animal whose ancestors lived on the edge of deserts, and many cats drink little water, getting all the moisture they need from the meat they eat. Second, cats do not require vitamin C."]
+-
 
 <!-- ### Amur Tiger Facts
 
