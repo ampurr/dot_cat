@@ -1,5 +1,6 @@
 ---
 title: "joss dot cat"
+bibliography: citations.bibtex
 format: html
 css: style_changes.css
 toc: true
@@ -39,7 +40,7 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 
 Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
 
-- Housecats have very efficient livers. This is cuz they evolved from a species of desert wildcat, which also had efficient livers and don't need to drink water very often.
+- Housecats have very efficient livers. This is cuz they evolved from a species of desert wildcat, which also had efficient livers and don't need to drink water very often [@Bradshaw_2013].
 
 <!-- ### Amur Tiger Facts
 
