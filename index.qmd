@@ -39,6 +39,8 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 
 Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
 
+- Housecats have very efficient livers. This is cuz they evolved from a species of desert wildcat, which also had efficient livers and don't need to drink water very often.
+
 <!-- ### Amur Tiger Facts
 
 Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are highly endangered. -->
@@ -63,7 +65,7 @@ Some more facts:
 - There are a total of 25 cat Pokémon as of Generation VIII.
 - Generation IV and VII are tied for largest number of cat Pokémon per generation---5 each.
 - Generation VIII has one 1 cat Pokémon, and is therefore the worst generation.
-- Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Skitty, Litten, and Zeraora.
+- Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Skitty, Litten, and Zeraora. 
 
 
 ## Cat Resources
