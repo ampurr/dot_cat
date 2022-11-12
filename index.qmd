@@ -21,8 +21,7 @@ library(tidyverse)    # data manipulation
 library(kableExtra)   # make tables
 ```
 
-![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png){fig-alt = "A tabby housecat licking itself. Illustration."}
-
+![A drawing of a domestic short-haired tabby housecat with stripes all over its body. The housecat is sitting and licking its right paw. It was drawn by Takashi Mifune and [used with permission](https://www.irasutoya.com/p/terms.html).](cat_irasutoya.png)
 
 ## What?
 
@@ -36,7 +35,15 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 
 ## Cat Facts
 
-### Cat Pokémon
+### Housecat Facts
+
+Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
+
+<!-- ### Amur Tiger Facts
+
+Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are highly endangered. -->
+
+### Cat Pokémon Facts
 
 Here are all the Pokémon described as cats or sufficiently cat-like in the Pokémon video game series.
 
@@ -51,17 +58,12 @@ pkmn_list
 ```
 :::
 
-Since Pokémon are usually not direct translations of real-life animals, I had to make judgement calls.
+Some more facts:
 
-An example of Pokémon being insufficiently cat are Eevee and its evolutions. While they were [designed to have cat characteristics](https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)#Origin), those characteristics are blended with those of other animals.
-
-### Housecat Facts
-
-Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
-
-### Amur Tiger Facts
-
-Facts about a group of animals within _Panthera tigris altaica_. Amur tigers are highly endangered.
+- There are a total of 25 cat Pokémon as of Generation VIII.
+- Generation IV and VII are tied for largest number of cat Pokémon per generation---5 each.
+- Generation VIII has one 1 cat Pokémon, and is therefore the worst generation.
+- Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Skitty, Litten, and Zeraora.
 
 
 ## Cat Resources
