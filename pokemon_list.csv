@@ -1,6 +1,7 @@
-Num,Name,Category,Kind,Debut,Catness
+NDex,Name,Category,Kind,Debut,Catness
 052,Meowth,Scratch Cat Pokémon,Meowth Line,Gen I,lucky cat
 053,Persian,Classy Cat Pokémon,Meowth Line,Gen I,Persian housecat–large cat mix
+151,Mew,New Species Pokémon,Mystic Pokémon,Gen I,housecat
 196,Espeon,Sun Pokémon,Eevee Line,Gen II,housecat
 197,Umbreon,Moonlight Pokémon,Eevee Line,Gen II,housecat
 243,Raikou,Thunder Pokémon,Legendary Beast,Gen II,saber-toothed cat
@@ -24,3 +25,7 @@ Num,Name,Category,Kind,Debut,Catness
 791,Solgaleo,Sunne Pokémon,Cosmog Line,Gen VII,lion
 807,Zeraora,Thunderclap Pokémon,Mystical Pokémon, Gen VII,housecat-tiger mix
 863,Perrserker,Viking Pokémon,Meowth Line,Gen VIII,housecat
+907,Sprigatito,Grass Cat Pokémon,Sprigatito Line,Gen IX,housecat
+908,Floragato,Grass Cat Pokémon,Sprigatito Line,Gen IX,housecat
+909,Meowscarada,Magician Pokémon,Sprigatito Line,Gen IX,housecat
+1002,Chien-Pao,Ruinous Pokémon,Treasures of Ruin,Gen IX,saber-toothed cat
