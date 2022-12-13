@@ -41,7 +41,7 @@ Cats are the best and coolest animals currently alive today.^["Cat" refers to an
 Facts about _Felis catus_, the common housecat and the animal that most people thing of when they see the word "cat".
 
 - Housecats evolved from _Felis silvestris lybica_, a kind of desert wildcat, and have super efficient kidneys [@Bradshaw_2013, Chapter 3].^["First, their kidneys are very efficient, as expected for an animal whose ancestors lived on the edge of deserts, and many cats drink little water, getting all the moisture they need from the meat they eat. Second, cats do not require vitamin C."]
-- The average housecat eyeball is 22 
+- The average housecat eyeball is 22 millimeters in diameter. In contrast, human eyeballs have an average diameter of 25 millimeters [@Bradshaw_Casey_Brown_2012, Chapter 2].
 
 <!-- ### Amur Tiger Facts
 
@@ -66,7 +66,7 @@ Some more facts:
 
 - There are a total of 30 cat Pokémon as of Generation IX.
 - Generation IV and VII are tied for largest number of cat Pokémon per generation---5 each.
-- Generation VIII has one 1 cat Pokémon, and is therefore the worst generation.
+- Generation VIII has one 1 cat Pokémon and is therefore the worst generation.
 - Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Delcatty, Litten, and Zeraora. 
 
 
@@ -75,6 +75,7 @@ Some more facts:
 ### Science
 
 - The [Cat Specialist Group](http://www.catsg.org/) is a collective of cat specialists who work with endangered cats.
+- ["The Inner Life of Cats"](https://www.scientificamerican.com/article/the-inner-life-of-cats/) is an interview with John Bradshaw that responds to some common questions about cats and their thinking.
 
 ### Art
 
