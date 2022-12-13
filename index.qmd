@@ -63,10 +63,10 @@ pkmn_list
 
 Some more facts:
 
-- There are a total of 25 cat Pokémon as of Generation VIII.
+- There are a total of 30 cat Pokémon as of Generation IX.
 - Generation IV and VII are tied for largest number of cat Pokémon per generation---5 each.
 - Generation VIII has one 1 cat Pokémon, and is therefore the worst generation.
-- Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Skitty, Litten, and Zeraora. 
+- Strangely, my favorite Pokémon isn't a cat. Of those that are cats, it's a difficult decision between Delcatty, Litten, and Zeraora. 
 
 
 ## Cat Resources
