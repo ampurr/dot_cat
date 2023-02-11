@@ -1,0 +1,32 @@
+/* css for cat pic */
+/* see https://web.dev/centering-in-css/ */
+
+/* .centered {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 1ch;
+} */
+
+html {
+	hyphens: auto;
+}
+
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+main {
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: flex-end;
+}
+
+figcaption {
+	font-size: 15px;
+}
