@@ -1,13 +1,4 @@
 /* css for cat pic */
-/* see https://web.dev/centering-in-css/ */
-
-/* .centered {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	gap: 1ch;
-} */
 
 html {
 	font-family: sans-serif;
@@ -27,6 +18,10 @@ main {
 	flex-direction: row-reverse;
 	flex-wrap: wrap-reverse;
 	align-items: flex-end;
+}
+
+.pic {
+	flex-basis: 200px;
 }
 
 figcaption {
