@@ -52,6 +52,14 @@ div.facts > figure > figcaption::after {
 	content: ":";
 }
 
+div.facts > figure > p {
+	margin: 10px 0;
+}
+
+blockquote {
+	margin: 10px 0;
+}
+
 blockquote::before {
 	content: open-quote;
 }
@@ -60,14 +68,8 @@ blockquote::after {
 	content: close-quote;
 }
 
-div.facts {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
-	grid-gap: 1rem;
-	max-width: 1000px;
-}
-
 div.facts > figure {
 	background: #b6dbf3;
-	padding: 0px;
+	padding: 1.5rem;
+	border-radius: 1rem;
 }
