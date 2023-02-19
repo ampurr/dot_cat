@@ -69,3 +69,9 @@ cat-facts > figure {
 	padding: 1.5rem;
 	border-radius: 1rem;
 }
+
+/* pokémon */
+
+ol.pokemon > li:nth-child(1) {
+	list-style: "#052. ";
+}
