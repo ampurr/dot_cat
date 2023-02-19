@@ -1,4 +1,6 @@
-/* css for cat pic */
+/* css for cat site */
+
+/* basic components */
 
 html {
 	font-family: sans-serif;
@@ -13,14 +15,20 @@ body {
     padding: 0 10px;
 }
 
-main {
+no-wrap {
+	white-space: nowrap;
+}
+
+/* side-by-side discussion w. pic */
+
+main.front, section.intro {
 	display: flex;
 	align-items: flex-end;
 	flex-direction: row-reverse;
 }
 
 @media (max-aspect-ratio: 1/1) {
-	main {
+	main.front, section.intro {
 		flex-wrap: wrap-reverse;
 	}
 }
@@ -31,4 +39,19 @@ main {
 
 figcaption {
 	font-size: 15px;
+}
+
+.shrink {
+	width: 180px;
+	height: auto;
+}
+
+/* facts */
+
+.facts {
+	container: grid;
+}
+
+cat-fact {
+	display: block;
 }
