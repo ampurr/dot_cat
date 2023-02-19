@@ -48,11 +48,11 @@ div.pic > figure > figcaption {
 
 /* facts */
 
-div.facts > figure > figcaption::after {
+cat-facts > figure > figcaption::after {
 	content: ":";
 }
 
-blockquote, div.facts > figure > p {
+blockquote, cat-facts > figure > p {
 	margin: 10px 0 0;
 }
 
@@ -64,7 +64,7 @@ blockquote::after {
 	content: close-quote;
 }
 
-div.facts > figure {
+cat-facts > figure {
 	background: #b6dbf3;
 	padding: 1.5rem;
 	border-radius: 1rem;
