@@ -72,6 +72,40 @@ cat-facts > figure {
 
 /* pokémon */
 
-ol.pokemon > li:nth-child(1) {
-	list-style: "#052. ";
+ol.pokemon {
+	columns: 2;
+	margin-left: 15px;
 }
+
+ol.pokemon > li:nth-child(1) {list-style: "#052. ";}
+ol.pokemon > li:nth-child(2) {list-style: "#053. ";}
+ol.pokemon > li:nth-child(3) {list-style: "#151. ";}
+ol.pokemon > li:nth-child(4) {list-style: "#196. ";}
+ol.pokemon > li:nth-child(5) {list-style: "#197. ";}
+ol.pokemon > li:nth-child(6) {list-style: "#243. ";}
+ol.pokemon > li:nth-child(7) {list-style: "#245. ";}
+
+
+ol.pokemon > li:nth-child(8) {list-style: "#300. ";}
+ol.pokemon > li:nth-child(9) {list-style: "#301. ";}
+ol.pokemon > li:nth-child(10) {list-style: "#403. ";}
+ol.pokemon > li:nth-child(11) {list-style: "#404. ";}
+ol.pokemon > li:nth-child(12) {list-style: "#405. ";}
+ol.pokemon > li:nth-child(13) {list-style: "#431. ";}
+ol.pokemon > li:nth-child(14) {list-style: "#432. ";}
+ol.pokemon > li:nth-child(15) {list-style: "#509. ";}
+ol.pokemon > li:nth-child(16) {list-style: "#510. ";}
+ol.pokemon > li:nth-child(17) {list-style: "#667. ";}
+ol.pokemon > li:nth-child(18) {list-style: "#668. ";}
+ol.pokemon > li:nth-child(19) {list-style: "#677. ";}
+ol.pokemon > li:nth-child(20) {list-style: "#678. ";}
+ol.pokemon > li:nth-child(21) {list-style: "#725. ";}
+ol.pokemon > li:nth-child(22) {list-style: "#726. ";}
+ol.pokemon > li:nth-child(23) {list-style: "#727. ";}
+ol.pokemon > li:nth-child(24) {list-style: "#791. ";}
+ol.pokemon > li:nth-child(25) {list-style: "#807. ";}
+ol.pokemon > li:nth-child(26) {list-style: "#863. ";}
+ol.pokemon > li:nth-child(27) {list-style: "#907. ";}
+ol.pokemon > li:nth-child(28) {list-style: "#908. ";}
+ol.pokemon > li:nth-child(29) {list-style: "#909. ";}
+ol.pokemon > li:nth-child(30) {list-style: "#1002. ";}
