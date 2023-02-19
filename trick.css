@@ -77,6 +77,12 @@ ol.pokemon {
 	margin-left: 15px;
 }
 
+@media (max-aspect-ratio: 1/1) {
+	ol.pokemon {
+		columns: 1;
+	}
+}
+
 ol.pokemon > li:nth-child(1) {list-style: "#052. ";}
 ol.pokemon > li:nth-child(2) {list-style: "#053. ";}
 ol.pokemon > li:nth-child(3) {list-style: "#151. ";}
