@@ -13,6 +13,7 @@ body {
     line-height: 1.6;
     font-size: 18px;
     padding: 0 10px;
+	font-variant-numeric: oldstyle-nums;
 }
 
 no-wrap {
@@ -70,6 +71,14 @@ cat-facts > figure {
 	border-radius: 1rem;
 }
 
+section.sources > ul {
+	list-style: none;
+}
+
+section.sources > ul > li > ul {
+	list-style-type: disc;
+}
+
 /* pokémon */
 
 ol.pokemon {
@@ -90,8 +99,6 @@ ol.pokemon > li:nth-child(4) {list-style: "#196. ";}
 ol.pokemon > li:nth-child(5) {list-style: "#197. ";}
 ol.pokemon > li:nth-child(6) {list-style: "#243. ";}
 ol.pokemon > li:nth-child(7) {list-style: "#245. ";}
-
-
 ol.pokemon > li:nth-child(8) {list-style: "#300. ";}
 ol.pokemon > li:nth-child(9) {list-style: "#301. ";}
 ol.pokemon > li:nth-child(10) {list-style: "#403. ";}
